@@ -1,0 +1,12 @@
+# One symbol per line (NSE by default). Prefer liquid large-caps for intraday.
+# Update to your own list; index constituents change.
+RELIANCE
+HDFCBANK
+ICICIBANK
+INFY
+TCS
+SBIN
+AXISBANK
+LT
+BHARTIARTL
+ITC

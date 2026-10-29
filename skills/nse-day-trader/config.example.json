@@ -1,0 +1,5 @@
+{
+  "_comment": "Copy to config.json and set your broker's actual rates. Never put API keys or passwords here.",
+  "MIS": { "brokerage_pct": 0.03, "brokerage_cap": 20 },
+  "CNC": { "brokerage_pct": 0.0, "brokerage_cap": 0, "dp_charge_per_sell": 15.93 }
+}
