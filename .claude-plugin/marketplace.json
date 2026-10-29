@@ -1,0 +1,11 @@
+{
+  "name": "nse-day-trader-skill",
+  "owner": { "name": "vjhotspot" },
+  "plugins": [
+    {
+      "name": "nse-day-trader-skill",
+      "source": "./",
+      "description": "Day-trading and swing workflow for Indian stocks (NSE/BSE): market context, scanner, sizing, charges, journal. Plan-only, never places orders."
+    }
+  ]
+}
