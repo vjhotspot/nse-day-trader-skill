@@ -1,0 +1,6 @@
+{
+  "name": "nse-day-trader-skill",
+  "version": "0.1.0",
+  "description": "Day-trading and swing workflow for Indian stocks (NSE/BSE). Plan-only, never places orders.",
+  "license": "MIT"
+}
