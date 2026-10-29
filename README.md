@@ -34,13 +34,13 @@ On claude.ai the sandbox may block Yahoo Finance. In that case, upload a CSV exp
 
 ### Option B: Claude Code plugin
 ```
-/plugin marketplace add YOUR_GITHUB_USERNAME/nse-day-trader-skill
+/plugin marketplace add vjhotspot/nse-day-trader-skill
 /plugin install nse-day-trader-skill@nse-day-trader-skill
 ```
 
 ### Option C: Claude Code, manual
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/nse-day-trader-skill.git
+git clone https://github.com/vjhotspot/nse-day-trader-skill.git
 cp -r nse-day-trader-skill/skills/nse-day-trader ~/.claude/skills/
 pip install -r nse-day-trader-skill/requirements.txt
 ```
